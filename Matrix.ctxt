@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ CreateMatrix()
+comment1.params=
+comment1.target=void\ LastStatus()
+comment2.params=
+comment2.target=void\ MatrixDatabase()
+comment3.params=
+comment3.target=void\ PrintMatrix()
+comment4.params=ch\ no
+comment4.target=boolean\ Seating(char,\ int)
+comment5.params=
+comment5.target=void\ Choice()
+numComments=6

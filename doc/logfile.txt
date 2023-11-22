@@ -1,0 +1,31 @@
+Class documentation
+<---- javadoc command: ---->
+D:\BLEUJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+D:\BLEUJ\lib\bluejcore.jar;D:\BLEUJ\lib\junit-jupiter-5.5.2.jar;D:\BLEUJ\lib\junit-jupiter-api-5.5.2.jar;D:\BLEUJ\lib\junit-jupiter-engine-5.5.2.jar;D:\BLEUJ\lib\junit-jupiter-migrationsupport-5.5.2.jar;D:\BLEUJ\lib\junit-jupiter-params-5.5.2.jar;D:\BLEUJ\lib\junit-platform-commons-1.5.2.jar;D:\BLEUJ\lib\junit-platform-console-1.5.2.jar;D:\BLEUJ\lib\junit-platform-console-standalone-1.5.2.jar;D:\BLEUJ\lib\junit-platform-engine-1.5.2.jar;D:\BLEUJ\lib\junit-platform-launcher-1.5.2.jar;D:\BLEUJ\lib\junit-platform-reporting-1.5.2.jar;D:\BLEUJ\lib\junit-platform-runner-1.5.2.jar;D:\BLEUJ\lib\junit-platform-suite-api-1.5.2.jar;D:\BLEUJ\lib\junit-platform-testkit-1.5.2.jar;D:\BLEUJ\lib\junit-quickcheck-core-0.9.jar;D:\BLEUJ\lib\junit-vintage-engine-5.5.2.jar;D:\BLEUJ\lib\hamcrest-core-1.3.jar;D:\BLEUJ\lib\hamcrest-library-1.3.jar;D:\BLEUJ\lib\lang-stride.jar;D:\BLEUJ\lib\javafx\lib\javafx.base.jar;D:\BLEUJ\lib\javafx\lib\javafx.controls.jar;D:\BLEUJ\lib\javafx\lib\javafx.fxml.jar;D:\BLEUJ\lib\javafx\lib\javafx.graphics.jar;D:\BLEUJ\lib\javafx\lib\javafx.media.jar;D:\BLEUJ\lib\javafx\lib\javafx.properties.jar;D:\BLEUJ\lib\javafx\lib\javafx.swing.jar;D:\BLEUJ\lib\javafx\lib\javafx.web.jar;D:\MOVIE TICKET FINAL WORKING CODE-copy
+-d
+D:\MOVIE TICKET FINAL WORKING CODE-copy\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+D:\MOVIE TICKET FINAL WORKING CODE-copy\FinalMatrix.java
+<---- end of javadoc command ---->
+Loading source file D:\MOVIE TICKET FINAL WORKING CODE-copy\FinalMatrix.java...
+Constructing Javadoc information...
+Standard Doclet version 17.0.4+8
+Building tree for all the packages and classes...
+Generating D:\MOVIE TICKET FINAL WORKING CODE-copy\doc\FinalMatrix.html...
+Generating D:\MOVIE TICKET FINAL WORKING CODE-copy\doc\package-summary.html...
+Generating D:\MOVIE TICKET FINAL WORKING CODE-copy\doc\index.html...
